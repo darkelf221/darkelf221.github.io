@@ -505,7 +505,6 @@ article video,
 article svg,
 article select,
 article textarea {
-  width: auto;
   max-width: 100%;
 }
 details ul {
